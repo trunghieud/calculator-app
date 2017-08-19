@@ -1,6 +1,6 @@
-# Core Project
+# Calculator-app
 
-*Structure for creating a dancing Java project.*
+*Structure for creating a calculator app.*
 
 **Java 7**
 
